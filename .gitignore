@@ -3,3 +3,10 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+GiFe_Garage_1_2024_12_03/
+include/
+
+# Local credentials
+/lib/secrets.h
+/lib/secrets/
+__pycache__/
